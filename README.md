@@ -185,29 +185,29 @@ Dari visualisasi tersebut, terlihat bahwa jumlah perpustakaan paling banyak bera
 <p align="justify"><b>Daftar Pustaka</b></p>
 
 <p align="justify">
-[1]	Suriansyah, A. (2011). Landasan pendidikan.
+[1]	Suriansyah, A. (2011). Landasan pendidikan.</p>
 
-[2]	Ilmawan, H., & Santosa, P. B. (2021). Visualisasi Data Statistik Kabupaten Banyumas Menggunakan Peta Interaktif. Geoid, 16(2), 150-163.
+<p align="justify">[2]	Ilmawan, H., & Santosa, P. B. (2021). Visualisasi Data Statistik Kabupaten Banyumas Menggunakan Peta Interaktif. Geoid, 16(2), 150-163.</p>
 
-[3]	Badan Pusat Statistik.2020. Potret Pendidikan Indonesia Statistik Pendidikan 2020. November. BPS: Jakarta
+<p align="justify">[3]	Badan Pusat Statistik.2020. Potret Pendidikan Indonesia Statistik Pendidikan 2020. November. BPS: Jakarta</p>
 
-[4]	Badan Pusat Statistik.2019 Potret Pendidikan Indonesia Statistik Pendidikan 2019. November. BPS: Jakarta.
+<p align="justify">[4]	Badan Pusat Statistik.2019 Potret Pendidikan Indonesia Statistik Pendidikan 2019. November. BPS: Jakarta.</p>
 
-[5]	Badan Pusat Statistik.2021. Potret Pendidikan Indonesia Statistik Pendidikan 2021. November. BPS: Jakarta
+<p align="justify">[5]	Badan Pusat Statistik.2021. Potret Pendidikan Indonesia Statistik Pendidikan 2021. November. BPS: Jakarta</p>
 
-[6]	Handayani, R., & Rasyidi, M. A. (2019). SHOPVIS: VISUALISASI INTERAKTIF PERSEBARAN TOKO DARING DI INDONESIA MENGGUNAKAN CROWDSOURCED DATA. SISFO VOL 8 NO 2, 2. \
+<p align="justify">[6]	Handayani, R., & Rasyidi, M. A. (2019). SHOPVIS: VISUALISASI INTERAKTIF PERSEBARAN TOKO DARING DI INDONESIA MENGGUNAKAN CROWDSOURCED DATA. SISFO VOL 8 NO 2, 2. \</p>
 
-[7]	Pramono, W. A., Az-Zahra, H. M., & Rokhmawati, R. I. (2019). Evaluasi Usability pada Aplikasi MyTelkomsel dengan Menggunakan Metode Usability Testing. Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer e-ISSN, 2548, 964X. 
+<p align="justify">[7]	Pramono, W. A., Az-Zahra, H. M., & Rokhmawati, R. I. (2019). Evaluasi Usability pada Aplikasi MyTelkomsel dengan Menggunakan Metode Usability Testing. Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer e-ISSN, 2548, 964X. </p>
 
-[8]	Lita, T. Y. (2022). PERBANDINGAN TABEL MORTALITA TASPEN 2012 (TMT 2012) DAN TABEL MORTALITA INDONESIA 2011 (TMI 2011) MENGGUNAKAN UJI MANN-WHITNEY. Binawan Student Journal, 4(1), 4-8.
+<p align="justify">[8]	Lita, T. Y. (2022). PERBANDINGAN TABEL MORTALITA TASPEN 2012 (TMT 2012) DAN TABEL MORTALITA INDONESIA 2011 (TMI 2011) MENGGUNAKAN UJI MANN-WHITNEY. Binawan Student Journal, 4(1), 4-8.</p>
 
-[9]	Setiawan, D., & Rafianto, N. (2020). Pengukuran usability pada learning management system perguruan tinggi menggunakan pedoman system usability scale. Teknologi: Jurnal Ilmiah Sistem Informasi, 10(1), 23-31.
+<p align="justify">[9]	Setiawan, D., & Rafianto, N. (2020). Pengukuran usability pada learning management system perguruan tinggi menggunakan pedoman system usability scale. Teknologi: Jurnal Ilmiah Sistem Informasi, 10(1), 23-31.</p>
 
-[10]	Lizana, H. I. N., & Ridho, F. (2021, November). Implementasi dan Evaluasi Visualisasi Data Interaktif pada Publikasi Laporan Bulanan Data Sosial Ekonomi Indonesia. In Seminar Nasional Official Statistics (Vol. 2021, No. 1, pp. 947-957).
+<p align="justify">[10]	Lizana, H. I. N., & Ridho, F. (2021, November). Implementasi dan Evaluasi Visualisasi Data Interaktif pada Publikasi Laporan Bulanan Data Sosial Ekonomi Indonesia. In Seminar Nasional Official Statistics (Vol. 2021, No. 1, pp. 947-957).</p>
 
-[11]	Baumgartner, J., Frei, N., Kleinke, M., Sauer, J., & Sonderegger, A. (2019). Pictorial System Usability Scale (P-SUS): Developing an Instrument for Measuring Perceived Usability. CHI '19: Proceedings of CHI Conference on Human Factors in Computing Systems. Glasgow, Scotland UK: ACM. 
+<p align="justify">[11]	Baumgartner, J., Frei, N., Kleinke, M., Sauer, J., & Sonderegger, A. (2019). Pictorial System Usability Scale (P-SUS): Developing an Instrument for Measuring Perceived Usability. CHI '19: Proceedings of CHI Conference on Human Factors in Computing Systems. Glasgow, Scotland UK: ACM. </p>
 
-[12]	Fatah, D. A. (2020). Evaluasi Usability dan Perbaikan Desain Aplikasi Mobile Menggunakan Usability Testing dengan Pendekatan Human-Centered Design (HCD). Rekayasa, 13(2), 130-143.
+<p align="justify">[12]	Fatah, D. A. (2020). Evaluasi Usability dan Perbaikan Desain Aplikasi Mobile Menggunakan Usability Testing dengan Pendekatan Human-Centered Design (HCD). Rekayasa, 13(2), 130-143.</p>
 
-[13]	Siregar, R. I. (2018). Visualisasi Data Sekolah Kota Pekanbaru Menggunakan Metode Diagram Sunburst (Doctoral dissertation, Universitas Islam Negeri Sultan Syarif Kasim Riau).
+<p align="justify">[13]	Siregar, R. I. (2018). Visualisasi Data Sekolah Kota Pekanbaru Menggunakan Metode Diagram Sunburst (Doctoral dissertation, Universitas Islam Negeri Sultan Syarif Kasim Riau).
 </p>
