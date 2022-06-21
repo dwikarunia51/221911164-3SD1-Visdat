@@ -66,7 +66,7 @@ Visualisasi data tersebut dapat dijadikan satu di dalam dashboard interaktif aga
 
 <p align="justify">Secara teknis, SUS memiliki 10 butir pertanyaan yang dikemas dalam bentuk kuesioner, tetapi dalam pengembangannya bisa dimungkinkan dibuat dalam bentuk gambar yang dinamakan PictorialSUS [11], namun dalam penelitian ini hanya menggunakan kuesioner. Pertanyaan pada kuesioner system usability scale dapat dilihat pada Tabel 1.</p>
 
-![Tabel1](Gambar_Tabel/Tabel1.png)
+![Tabel1](Gambar_Tabel/BismillahTabel1.png)
 
 <p align="justify">Kuesioner SUS memiliki 10 pertanyaan dengan penilaian menggunakan skala liert pada rentang 1-5, dimana poin 1 artinya sangat tidak setuju, 2 artinya tidak setuju, tiga berarti netral, 4 yaitu setuju, dan 5 adalah sangat setuju. Dalam menentukan hasil perhitungan skor SUS, terdapat tiga sudut pandang penelitian, yaitu acceptability, grade scale, dan adjective rating. Seperti pada gambar 2 berikut.</p>
 
@@ -75,7 +75,7 @@ Visualisasi data tersebut dapat dijadikan satu di dalam dashboard interaktif aga
 
 <p align="justify">Pembobotan skor untuk menyatakan status dashboard berada pada rentang 0-100 serta dibagi menjadi 5 nilai huruf dari A,B,C,D, dan  F.</p>
 
-![Tabel2](Gambar_Tabel/Tabel2.png)
+![Tabel2](Gambar_Tabel/BismillahTabel2.png)
 
 <p align="justify"><b>E. Metode Analisis</b></p>
 
@@ -158,7 +158,7 @@ Dari visualisasi tersebut, terlihat bahwa jumlah perpustakaan paling banyak bera
 
 <p align="justify">Setelah mendapatkan data primer dari hasil kuesioner SUS, dilakukan preprocessing data primer, seperti transformasi data dan pemilihan variabel yang akan digunakan untuk analisis lebih lanjut sehingga data siap diolah. Rekapitulasi hasil penyebaran kuesioner SUS yang telah dilakukan preprocessing data terlihat pada Tabel 2. Jumlah responden yang mengisi kuesioner sebanyak 10 responden yang terdiri dari 5 responden kategori lingkup pendidikan dan 5 responden kategori masyarakat umum. Pengolahan data menggunakan Microsoft Excel. Data yang berhasil dikumpulkan dihitung untuk diberikan pembobotan SUS. Namun, terdapat aturan perhitungan skor kuesioner, yaitu setiap pertanyaan bernomor ganjil dikurangi satu dan pertanyaan bernomor genap dikurangi 5. Pembobotan SUS skor didapatkan dari hasil penjumlahan keseluruhan skor pengguna dikali 2.5. </p> 
 
-![Tabel4](Gambar_Tabel/Tabel4.png)
+![Tabel4](Gambar_Tabel/BismillahTabel4.png)
 
 <p align="justify">Setelah dilakukan perhitungan skor, dilanjutkan dengan perhitungan rata-rata skor dengan menjumlahkan keseluruhan skor kemudian dibagi dengan jumlah responden.</p> 
 
@@ -170,7 +170,7 @@ Dari visualisasi tersebut, terlihat bahwa jumlah perpustakaan paling banyak bera
 
 <p align="justify">Penelitian ini memiliki hipotesis awal yaitu tidak ada perbedaan persepsi penilaian antara kedua kelompok responden. Hipotesis alternatifnya adalah terdapat perbedaan persepsi penilaian antara kedua kelompok responden. Tingkat signifikansi yang digunakan adalah 5%. Perhitungan menggunakan IBM SPSS Statistics 25 dengan output pada Tabel 5.</p> 
 
-![Tabel5](Gambar_Tabel/Tabel5.png)
+![Tabel5](Gambar_Tabel/BismillahTabel5.png)
 
 <p align="justify">Berdasarkan Tabel 5, terlihat bahwa Z hitung sebesar -0.319 dan nilai p-value sebesar 0.75. Nilai p-value tersebut lebih besar dari tingkat signifikansi yaitu 0.05. Oleh karena itu, keputusan yang diambil adalah gagal tolak hipotesis awal. Dapat dikatakan bahwa tidak ada perbedaan persepsi penilaian antara kedua kelompok responden terhadap dashboard interaktif visualisasi data statistik pendidikan Indonesia. Artinya, dashboard ini dapat digunakan oleh masyarakat, baik itu masyarakat yang berasal dari lingkup pendidikan, maupun masyarakat umum. </p> 
 
