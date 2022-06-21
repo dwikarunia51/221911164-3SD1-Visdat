@@ -21,7 +21,7 @@
 <p align="justify">Berikut diagram alur penelitian Dashboard Interaktif Visualisasi Data Statistik Pendidikan Indonesia. </p>
 
 ![AlurPenelitian](AlurPenelitian/AlurPenelitian.png)
-<p align="center">Gambar 1. Alur Penelitian</p>
+<p>Gambar 1. Alur Penelitian</p>
 
 <p align="justify"><b>A. Metode Pengumpulan Data</b></p>
 
@@ -44,4 +44,22 @@
 
 <p align="justify">Secara teknis, SUS memiliki 10 butir pertanyaan yang dikemas dalam bentuk kuesioner, tetapi dalam pengembangannya bisa dimungkinkan dibuat dalam bentuk gambar yang dinamakan PictorialSUS [11], namun dalam penelitian ini hanya menggunakan kuesioner. Pertanyaan pada kuesioner system usability scale dapat dilihat pada Tabel 1.</p>
 
-![Kuesioner](GambarTabel/Tabel1.png)
+![Tabel1](GambarTabel/Tabel1.png)
+
+<p align="justify">Kuesioner SUS memiliki 10 pertanyaan dengan penilaian menggunakan skala liert pada rentang 1-5, dimana poin 1 artinya sangat tidak setuju, 2 artinya tidak setuju, tiga berarti netral, 4 yaitu setuju, dan 5 adalah sangat setuju. Dalam menentukan hasil perhitungan skor SUS, terdapat tiga sudut pandang penelitian, yaitu acceptability, grade scale, dan adjective rating. Seperti pada gambar 2 berikut.</p>
+
+![SkorSUS](Gambar_Dashboard_dan_Visualisasi/Gambar2.SkorSUS.png)
+<p>Gambar 2. Standar Penetuan Skor SUS [12]</p>
+
+<p align="justify">Pembobotan skor untuk menyatakan status dashboard berada pada rentang 0-100 serta dibagi menjadi 5 nilai huruf dari A,B,C,D, dan  F.</p>
+
+![Tabel1](GambarTabel/Tabel2.png)
+
+<p align="justify"><b>E. Metode Analisis</b></p>
+
+<p align="justify">Pada penelitian ini, dilakukan analisis deskriptif pada data sekunder, yaitu data jumlah sekolah berdasarkan jenjang pendidikan SD,SMP, SMA/SMK menurut provinsi di Indonesia, persentase ruang kelas menurut jenjang pendidikan, kondisi serta data jumlah perpustakaan sekolah negeri menurut jenjang pendidikan, angka melek huruf penduduk umur 15-59 tahun menurut provinsi, rata-rata lama sekolah penduduk umur ≥15 tahun menurut provinsi,serta data tingkat penyelesaian pendidikan menurut jenjang pendidikan dan provinsi di Indonesia untuk tahun 2019-2021. Selain itu, analisis deskriptif juga dilakukan untuk menganalisis penilaian responden terhadap dashboard interaktif visualisasi data statistic pendidikan Indonesia berdasarkan kuesioner yang telah dibagikan. </p>
+
+<p align="justify">Penelitian ini juga menggunakan analisis inferensia menggunakan tools IBM SPSS Statistics 25 untuk melakukan uji Mann-Whitney dengan tujuan mengetahui perbedaan persepsi penilaian dashboard visualisasi data interaktif antara kelompok lingkup pendidikan dan masyarakat umum. Kelompok lingkup pendidikan mencakup mahasiswa jurusan pendidikan, pendidik berbagai jenjang pendidikan, dan sejenisnya. Kelompok masyarakat umum merupakan masyarakat yang tidak tercakup pada kelompok lingkup pendidikan. </p>
+
+<h3><b>Hasil dan Pembahasan</b></h3>
+
