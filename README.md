@@ -154,7 +154,8 @@ Dari visualisasi tersebut, terlihat bahwa jumlah perpustakaan paling banyak bera
 
 <p align="justify">Pada penelitian ini, dilakukan evaluasi terhadap dashboard interaktif visualisasi data statistik pendidikan Indonesia yang telah dibuat. Evaluasi menggunakan skor system usability scale (SUS). Kuesioner SUS dibuat menggunakan google form yang dapat diakses pada link https://bit.ly/Evaluasi_DashboardInteraktif.</p> 
 
-![Tabel1](Gambar_Tabel/Tabel3.png)
+![Tabel3](Gambar_Dashboard_dan_Visualisasi/BismillahTabel3.png)
+
 <p align="justify">Setelah mendapatkan data primer dari hasil kuesioner SUS, dilakukan preprocessing data primer, seperti transformasi data dan pemilihan variabel yang akan digunakan untuk analisis lebih lanjut sehingga data siap diolah. Rekapitulasi hasil penyebaran kuesioner SUS yang telah dilakukan preprocessing data terlihat pada Tabel 2. Jumlah responden yang mengisi kuesioner sebanyak 10 responden yang terdiri dari 5 responden kategori lingkup pendidikan dan 5 responden kategori masyarakat umum. Pengolahan data menggunakan Microsoft Excel. Data yang berhasil dikumpulkan dihitung untuk diberikan pembobotan SUS. Namun, terdapat aturan perhitungan skor kuesioner, yaitu setiap pertanyaan bernomor ganjil dikurangi satu dan pertanyaan bernomor genap dikurangi 5. Pembobotan SUS skor didapatkan dari hasil penjumlahan keseluruhan skor pengguna dikali 2.5. </p> 
 
 ![Tabel1](Gambar_Tabel/Tabel4.png)
