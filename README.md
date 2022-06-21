@@ -9,6 +9,20 @@
 
 <p align="justify">Kata Kunci— pendidikan, dashboard, visualisasi, system usability scale, mann-whitney</p>
 
+<h3><b>Latar Belakang</b></h3>
+<p align="justify">Pendidikan merupakan faktor yang penting dan merupakan tonggak pembangunan masa depan sebuah bangsa. Indonesia adalah negara kepulauan yang teriri dari 34 provinsi. Indonesia memiliki empat tujuan nasional, dimana salah satunya adalah “mencerdaskan kehidupan bangsa”. Berdasarkan Kamus Besar Bahasa Indonesia, pendidikan diartikan sebagai proses,cara, perbuatan mendidik. Pendidikan juga diartikan sebagai proses mengubah sikap dan tata laku seseorang atau kelompok orang dalam usaha mendewasakan manusia melalui upaya pengajaran dan pelatihan.</p>
+<p align="justify">Menurut Lengeveld, pendidikan adalah usaha mempenganrhi, melindungi serta memberikan banfuan yang te(uju kepada kedewasaan aaak didiknya atau dengan kata lain membantu aDak didik agar cukup mampu dalam melaksanakan tugas hidupnya sendii tanpa bantuan orang lain [1]. </p>
+<p align="justify">Undang-Undang Republik Indonesia (UU RI) No. 20 tahun 2003 tentang Sistem Pendidikan Nasional Pasal 45 menyebutkan bahwa setiap satuan pendidikan menyediakan sarana dan prasarana yang memenuhi keperluan pendidikan sesuai dengan pertumbuhan dan perkembangan potensi fisik, kecerdasan intelektual, sosial, emosional, dan kejiwaan peserta didik. Kondisi serta sarana dan prasarana antar provinsi berbeda-beda dan terdapat perubahan tiap tahunnya. Sementara, sarana dan prasarana pendidikan merupakan salah satu faktor yang memengaruhi kualitas pendidikan. Pemenuhan sarana dan prasarana pendidikan yang baik diharapkan dapat meningkatkan kualitas pendidikan masyarakat Indonesia. </p>
+<p align="justify">Hasil dan capaian proses pendidikan dapat dilihat dari beberapa indikator, diantaranya yaitu Angka Melek Huruf (AMH). rata-rata lama sekolah, dan tingkat penyelesaian sekolah. Data tentang hal tersebut dapat membantu pemerintah mengambil kebijakan yang tepat untuk dilaksanakan guna meningkatkan kualitas pendidikan generasi penerus bangsa. 
+Setiap tahun, Badan Pusat Statistik mengeluarkan publikasi mengenai statistik pendidikan Indonesia. Pada tahun 2019, Badan Pusat Statistik mengeluarkan publikasi yang berjudul Potret Pendidikan Statistik Pendidikan Indonesia Tahun 2019. Tahun 2020, Badan Pusat Statistik mengeluarkan publikasi yang berjudul Statistik Pendidikan 2020, serta di tahun 2021 publikasi berjudul Statistik Pendidikan 2021. Untuk tiap publikasi tersebut, terdapat 5 bab, yaitu pendahuluan, sarana dan prasarana, partisipasi sekolah, kegiatan siswa, serta hasil dan capaian proses pendidikan. 
+</p>
+<p align="justify">Data-data pendidikan tersebut terdapat di web pemerintahan seperti web Kementrian Pendidikan dan Kebudayaan, web Badan Pusat Statistik, maupun di publikasi BPS mengenai Statistik Pendidikan Indonesia. Namun, kebanyakan orang tidak tertarik melihat data statis. Selain itu, jika hanya menggunakan data statis akan memakan waktu cukup lama untuk menganalisis dan mengambil kebijakan. Untuk mengatasi hal tersebut, dapat dilakukan teknik visualisasi data. </p>
+
+<p align="justify">Visualisasi adalah salah satu cara menampilkan informasi dari data secara interaktif. Dengan bentuk visualisasi yang interaktif atau dinamis, informasi dari data dapat dilihat dengan jelas dan mudah dipahami. Referensi [2] menjelaskan bahwa visualisasi adalah rekayasa dalam pembuatan gambar, diagram atau animasi untuk penampilan suatu informasi dalam penjelasan lain visualisasi adalah konversi data ke dalam format visual atau tabel sehingga karakteristik dari data dan relasi diantara item data atau atribut dapat di analisis atau dilaporkan, dan visualisasi data adalah satu dari yang teknik paling baik dan menarik untuk eksplorasi data. 
+Visualisasi data tersebut dapat dijadikan satu di dalam dashboard interaktif agar pengguna lebih mudah melihat berbagai visualisasi tersebut. Desain dashboard yang baik akan memberikan informasi yang akurat. Oleh karena itu, pembuatan dashboard informasi visualisasi data interaktif sangat penting untuk melihat data sarana dan prasarana pendidikan di Indonesia serta persebaran hasil capaian proses pendidikan berdasarkan provinsi di Indonesia karena dengan adanya informasi dan perencanaan yang matang diharapkan dapat menjawab tantangan pembangunan di bidang pendidikan yang sedang dan akan dihadapi.
+</p>
+
+
 <h3><b>Tujuan Penelitian</b></h3>
 
 1. <p align="justify">Membuat visualisasi data interaktif menggunakan tableau tentang sarana dan prasarana pendidikan yang meliputi jumlah sekolah berdasarkan jenjang pendidikan dan provinsi di Indonesia, jumlah perpustakaan di Indonesia, dan kondisi ruang kelas di Indonesia tahun 2019-2021 sehingga bisa diperoleh gambaran perkembangan sarana dan prasarana pendidikan Indonesia dengan lebih cepat dan menarik.</p>
@@ -16,6 +30,14 @@
 3. <p align="justify">Membangun dashboard interaktif untuk visualisasi data sarana dan prasarana pendidikan serta hasil dan capaian proses pendidikan tahun 2019-2021 yang mampu menyajikan visualisasi data interaktif secara komprehensif.</p>
 4. <p align="justify">Untuk mengetahui penilaian terhadap dashboard interaktif visualisasi data statistik pendidikan Indonesi oleh pengguna yang terbagi menjadi dua kelompok pengguna.</p>
 5. <p align="justify">Untuk mengetahui perbedaan persepsi penilaian dashboard interaktif visualisasi data statistik pendidikan Indonesia oleh dua kelompok pengguna.</p>
+
+<h3><b>Penelitian Terkait</b></h3>
+<p align="justify">Dalam referensi [6], Ruktin Handayani dan Mohammad Arif Rasyidi melakukan penelitian pada tahun 2019 dengan judul Visualisasi Interaktif Persebaran Toko Daring di Indonesia Menggunakan Crowdsourced Data. Data yang digunakan dalam penelitian ini adalah hasil dari crowdsourced data yang bersumber dari toko daring di Indonesia. Data dianalisis dan diproses untuk menghasilkan statistik tentang distribusi toko daring berdasarkan wilayah dan jenis barang. Statistik ini ditampilkan dalam bentuk visualisasi peta untuk kemudahan penggunaan. Dengan adanya visualisasi tersebut, pemerintah atau pemegang kepentingan akan dapat memantau perkembangan toko daring di masing-masing wilayah. Metodologi penelitian yang dilakukan yaitu pengumpulan data, analisis dan pra-pemrosesan, data transformation, desain dan pembangunan software visualisasi, serta uji coba dan evaluasi.</p>
+<p align="justify">Pada referensi [9], Dimas Setiawan dan Naufal Rafianto melakukan penelitian dengan pada tahun 2020 dengan judul Pengukuran Usability pada Learning Management System Perguruan TInggi Menggunakan Pedoman System Usability Scale. Penelitian ini akan melakukan evaluasi untuk mengungkap kondisi usability ELMA (e-learning Universitas PGRI Madiun). evaluasi usablity yang bisa dilakukan salah satunya dengan menggunakan SUS (System Usability Scale). Berdasarkan hasil evaluasi usability terhadap 30 responden mahaiswa di berbagai lintas angkatan program studi sistem informasi, platform ELMA memiliki skor rata-rata sebesar 44 dengan rating rendah dan nilai huruf F. Hal ini menunjukkan bahwa ELMA masih memiliki tingkat kegunaan/usability yang masih rendah. Sehingga perlu adanya perbaikan.</p>
+<p align="justify">Referensi [10] menjelaskan bahwa Hafidz Isa Nasruddin Lizana dan Farid Ridho pada tahun 2021 melakukan penelitian dengan judul Implementasi dan Evaluasi Visualisasi Data Interaktif pada Publikasi Laporan Bulanan Data Sosial Ekonomi Indonesia. Dalam penelitian ini, mereka menggunakan beberapa indikator penilaian yang tercakup dalam lima kelompok penilaian, yaitu dampak visual, performa secara keseluruhan, desain secara keseluruhan, kualitas informasi, serta model representasi visual. Dilakukan analisis deskriptif untuk menganalisis penilaian responden terhadap SIVIS LBDSE berdasarkan kuesioner yang telah dibagikan. Untuk mengetahui perbedaan persepsi penilaiain visualisasi data interaktif antara dua kelompok responden, dilakukan uji Mann Whitney dengan tingkat signifikansi 5%. </p>
+<p align="justify">Referensi [7] menjelaskan bahwa Willy Arief Pramono, Hanifah Muslimah Az-Zahra, dan Retno Indah Rokhamawati melakukan penelitian pada tahun 2019 yang berjudul Evaluasi Usability pada Aplikasi MyTelkomsel dengan Menggunakan Metode Usability Testing. Penelitian ini bertujuan untuk melakukan evaluasi usability pada aplikasi MyTelkomsel versi 3.14 platform android untuk melakukan pengujian usability pada aplikasi dengan menggunakan metode Usability Testing untuk mengetahui tingkat usability dari aplikasi tersebut. Setelah peneliti melakukan observasi langsung, maka ditentukan bahwa pengguna dari aplikasi MyTelkomsel dibagi menjadi 2, yaitu pengguna baru dan pengguna lama. Evaluasi usability pada aplikasi MyTelkomsel menggunakan metode Usability Testing dengan menggunakan 5 kriteria yang tersedia, yaitu learnability, efficiency, memorability, error, dan satisfaction. dapat dikatakan bahwa aplikasi MyTelkomsel dapat dengan mudah diingat oleh pengguna pada saat pengguna tidak menggunakan sistem lagi dalam jangka waktu lama. Untuk kriteria error didapatkan nilai 1,31% yang artinya untuk kriteria ini dapat dikategorikan rendah. Sedangkan untuk satisfaction didapatkan skor 69 dari kuesioner SUS dan hasilnya berada diatas rata-rata skor penilaian.</p>
+<p align="justify"></p>
+<p align="justify"></p>
 
 <h3><b>Metodologi Penelitian</b></h3>
 <p align="justify">Berikut diagram alur penelitian Dashboard Interaktif Visualisasi Data Statistik Pendidikan Indonesia. </p>
@@ -44,7 +66,7 @@
 
 <p align="justify">Secara teknis, SUS memiliki 10 butir pertanyaan yang dikemas dalam bentuk kuesioner, tetapi dalam pengembangannya bisa dimungkinkan dibuat dalam bentuk gambar yang dinamakan PictorialSUS [11], namun dalam penelitian ini hanya menggunakan kuesioner. Pertanyaan pada kuesioner system usability scale dapat dilihat pada Tabel 1.</p>
 
-![Tabel1](GambarTabel/Tabel1.png)
+![Tabel1](Gambar_Tabel/Tabel1.png)
 
 <p align="justify">Kuesioner SUS memiliki 10 pertanyaan dengan penilaian menggunakan skala liert pada rentang 1-5, dimana poin 1 artinya sangat tidak setuju, 2 artinya tidak setuju, tiga berarti netral, 4 yaitu setuju, dan 5 adalah sangat setuju. Dalam menentukan hasil perhitungan skor SUS, terdapat tiga sudut pandang penelitian, yaitu acceptability, grade scale, dan adjective rating. Seperti pada gambar 2 berikut.</p>
 
@@ -53,7 +75,7 @@
 
 <p align="justify">Pembobotan skor untuk menyatakan status dashboard berada pada rentang 0-100 serta dibagi menjadi 5 nilai huruf dari A,B,C,D, dan  F.</p>
 
-![Tabel1](GambarTabel/Tabel2.png)
+![Tabel1](Gambar_Tabel/Tabel2.png)
 
 <p align="justify"><b>E. Metode Analisis</b></p>
 
@@ -128,6 +150,63 @@ Visualisasi bubble map pada penelitian ini menggunakan warna yang berbeda tiap k
 Dari visualisasi tersebut, terlihat bahwa jumlah perpustakaan paling banyak berada pada jenjang pendidikan sekolah dasar. Jumlah perpustakaan juga meningkat tiap tahunnya, terlihat dari tahun 2019,2020, dan 2021. 
 </p>
 
-<p><b>Evaluasi <i>Dashboard</i> Interaktif</b></p>
+<p align="justify"><b>Evaluasi <i>Dashboard</i> Interaktif Visualisasi Data Statistik Pendidikan Indonesia</b></p>
 
-<p align="justify"></p> 
+<p align="justify">Pada penelitian ini, dilakukan evaluasi terhadap dashboard interaktif visualisasi data statistik pendidikan Indonesia yang telah dibuat. Evaluasi menggunakan skor system usability scale (SUS). Kuesioner SUS dibuat menggunakan google form yang dapat diakses pada link https://bit.ly/Evaluasi_DashboardInteraktif.</p> 
+
+![Tabel1](Gambar_Tabel/Tabel3.png)
+<p align="justify">Setelah mendapatkan data primer dari hasil kuesioner SUS, dilakukan preprocessing data primer, seperti transformasi data dan pemilihan variabel yang akan digunakan untuk analisis lebih lanjut sehingga data siap diolah. Rekapitulasi hasil penyebaran kuesioner SUS yang telah dilakukan preprocessing data terlihat pada Tabel 2. Jumlah responden yang mengisi kuesioner sebanyak 10 responden yang terdiri dari 5 responden kategori lingkup pendidikan dan 5 responden kategori masyarakat umum. Pengolahan data menggunakan Microsoft Excel. Data yang berhasil dikumpulkan dihitung untuk diberikan pembobotan SUS. Namun, terdapat aturan perhitungan skor kuesioner, yaitu setiap pertanyaan bernomor ganjil dikurangi satu dan pertanyaan bernomor genap dikurangi 5. Pembobotan SUS skor didapatkan dari hasil penjumlahan keseluruhan skor pengguna dikali 2.5. </p> 
+
+![Tabel1](Gambar_Tabel/Tabel4.png)
+
+<p align="justify">Setelah dilakukan perhitungan skor, dilanjutkan dengan perhitungan rata-rata skor dengan menjumlahkan keseluruhan skor kemudian dibagi dengan jumlah responden.</p> 
+
+<p align="justify">Berdasarkan perhitungan menggunakan persamaan 1, didapatkan skor rata-rata untuk dashboard interaktif visualisasi data statistik pendidikan Indonesia sebesar 90 sehingga mendapatkan nilai huruf A yang artinya sangat baik.</p> 
+
+<p align="justify"><b>Perbedaan Persepsi Penilaian Kelompok Lingkup Pendidikan dan Masyarakat Umum</b></p>
+
+<p align="justify">Responden dalam evaluasi dashboard interaktif visualisasi data statistik pendidikan Indonesia berasal dari dua kelompompok, yaitu kelompok lingkup pendidikan dan kelompok masyarakat umum. Penelitian ini juga akan melakukan pengujian untuk mengetahui perbedaan persepsi penilaian antar dua kelompok tersebut menggunakan uji Mann Whitney. </p> 
+
+<p align="justify">Penelitian ini memiliki hipotesis awal yaitu tidak ada perbedaan persepsi penilaian antara kedua kelompok responden. Hipotesis alternatifnya adalah terdapat perbedaan persepsi penilaian antara kedua kelompok responden. Tingkat signifikansi yang digunakan adalah 5%. Perhitungan menggunakan IBM SPSS Statistics 25 dengan output pada Tabel 5.</p> 
+
+![Tabel1](Gambar_Tabel/Tabel5.png)
+
+<p align="justify">Berdasarkan Tabel 5, terlihat bahwa Z hitung sebesar -0.319 dan nilai p-value sebesar 0.75. Nilai p-value tersebut lebih besar dari tingkat signifikansi yaitu 0.05. Oleh karena itu, keputusan yang diambil adalah gagal tolak hipotesis awal. Dapat dikatakan bahwa tidak ada perbedaan persepsi penilaian antara kedua kelompok responden terhadap dashboard interaktif visualisasi data statistik pendidikan Indonesia. Artinya, dashboard ini dapat digunakan oleh masyarakat, baik itu masyarakat yang berasal dari lingkup pendidikan, maupun masyarakat umum. </p> 
+
+
+<h3><b>Kesimpulan</b></h3>
+<p align="justify">Pada penelitian ini, peneliti berhasil membuat visualisasi data untuk beberapa data sarana dan prasarana pendidikan, yaitu data jumlah sekolah divisualkan dengan diagram sunburst, data persentase kondisi ruang kelas divisualkan dengan stacked bar chart, serta data jumlah perpustakaan divisualkan dengan bubble map.</p> 
+<p align="justify">Peneliti juga berhasil membuat visualisasi data untuk beberapa data hasil dan capaian proses pendidikan, yaitu data angka melek huruf dan rata-rata lama sekolah yang divisualkan dengan choropleth map, serta data tingkat penyelesaian pendidikan yang divisualkan dengan pie map chart.</p> 
+<p align="justify">Setelah selesai membuat visualisasi tiap data, peneliti berhasil membuat dashboard interaktif visualisasi data statistic pendidikan Indonesia dan mengunggah dashboard tersebut di Tableau Public. </p> 
+<p align="justify">Peneliti juga sudah melakukan evaluasi dashboard tersebut menggunakan system usability scale sehingga didapatkan hasil bahwa dashboard masuk dalam kategori sangat baik dengan penilaian huruf A dan skor dalam angka adalah 90.</p> 
+<p align="justify">Berdasakan hasil evaluasi dengan uji Mann-Whitney dapat disimpulkan bahwa tidak ada perbedaan persepsi penilaian antara kedua kelompok responden terhadap dashboard interaktif visualisasi data statistik pendidikan Indonesia.</p> 
+
+<p align="justify"><b>Daftar Pustaka</b></p>
+
+<p align="justify">
+[1]	Suriansyah, A. (2011). Landasan pendidikan.
+
+[2]	Ilmawan, H., & Santosa, P. B. (2021). Visualisasi Data Statistik Kabupaten Banyumas Menggunakan Peta Interaktif. Geoid, 16(2), 150-163.
+
+[3]	Badan Pusat Statistik.2020. Potret Pendidikan Indonesia Statistik Pendidikan 2020. November. BPS: Jakarta
+
+[4]	Badan Pusat Statistik.2019 Potret Pendidikan Indonesia Statistik Pendidikan 2019. November. BPS: Jakarta.
+
+[5]	Badan Pusat Statistik.2021. Potret Pendidikan Indonesia Statistik Pendidikan 2021. November. BPS: Jakarta
+
+[6]	Handayani, R., & Rasyidi, M. A. (2019). SHOPVIS: VISUALISASI INTERAKTIF PERSEBARAN TOKO DARING DI INDONESIA MENGGUNAKAN CROWDSOURCED DATA. SISFO VOL 8 NO 2, 2. \
+
+[7]	Pramono, W. A., Az-Zahra, H. M., & Rokhmawati, R. I. (2019). Evaluasi Usability pada Aplikasi MyTelkomsel dengan Menggunakan Metode Usability Testing. Jurnal Pengembangan Teknologi Informasi dan Ilmu Komputer e-ISSN, 2548, 964X. 
+
+[8]	Lita, T. Y. (2022). PERBANDINGAN TABEL MORTALITA TASPEN 2012 (TMT 2012) DAN TABEL MORTALITA INDONESIA 2011 (TMI 2011) MENGGUNAKAN UJI MANN-WHITNEY. Binawan Student Journal, 4(1), 4-8.
+
+[9]	Setiawan, D., & Rafianto, N. (2020). Pengukuran usability pada learning management system perguruan tinggi menggunakan pedoman system usability scale. Teknologi: Jurnal Ilmiah Sistem Informasi, 10(1), 23-31.
+
+[10]	Lizana, H. I. N., & Ridho, F. (2021, November). Implementasi dan Evaluasi Visualisasi Data Interaktif pada Publikasi Laporan Bulanan Data Sosial Ekonomi Indonesia. In Seminar Nasional Official Statistics (Vol. 2021, No. 1, pp. 947-957).
+
+[11]	Baumgartner, J., Frei, N., Kleinke, M., Sauer, J., & Sonderegger, A. (2019). Pictorial System Usability Scale (P-SUS): Developing an Instrument for Measuring Perceived Usability. CHI '19: Proceedings of CHI Conference on Human Factors in Computing Systems. Glasgow, Scotland UK: ACM. 
+
+[12]	Fatah, D. A. (2020). Evaluasi Usability dan Perbaikan Desain Aplikasi Mobile Menggunakan Usability Testing dengan Pendekatan Human-Centered Design (HCD). Rekayasa, 13(2), 130-143.
+
+[13]	Siregar, R. I. (2018). Visualisasi Data Sekolah Kota Pekanbaru Menggunakan Metode Diagram Sunburst (Doctoral dissertation, Universitas Islam Negeri Sultan Syarif Kasim Riau).
+</p>
