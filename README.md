@@ -43,7 +43,7 @@ Visualisasi data tersebut dapat dijadikan satu di dalam dashboard interaktif aga
 <p align="justify">Berikut diagram alur penelitian Dashboard Interaktif Visualisasi Data Statistik Pendidikan Indonesia. </p>
 
 ![AlurPenelitian](AlurPenelitian/AlurPenelitian.png)
-<p>Gambar 1. Alur Penelitian</p>
+<p align="center">Gambar 1. Alur Penelitian</p>
 
 <p align="justify"><b>A. Metode Pengumpulan Data</b></p>
 
