@@ -1,5 +1,5 @@
 # 221911164-3SD1-Visdat
-(Projek UAS take home mata kuliah Visualisasi Data kelas 3SD1 tahun ajaran 2021/2022)
+(Projek UAS take home mata kuliah Visualisasi Data dan Informasi kelas 3SD1 tahun ajaran 2021/2022)
 
 <h2><b>DASHBOARD INTERAKTIF VISUALISASI DATA STATISTIK PENDIDIKAN INDONESIA</b></h2>
 
